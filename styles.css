@@ -8,6 +8,7 @@ body {
 }
 #mainHeading {
     color: rgb(197, 20, 20);
+    font: Arial
 }
 #S {
     color: rgb(73, 4, 73)
@@ -27,6 +28,11 @@ body {
 #testP {
     color:green
 }
+
+footer {
+    background: url(images/confetti.jpg);
+  }
+
 p {
     display: block;
     border: 1px solid black;
@@ -37,3 +43,18 @@ p {
   padding-bottom: 50px;
   padding-left: 80px;
   }  
+
+  #STEAMsational {
+    width: 500px;
+    margin: auto;
+  }
+
+footer {
+    background: (url(images/confetti.jpg));
+    text-align: center;
+    font-size: 36px;
+    margin: 50px;
+    height: 100px;
+    margin: auto;
+  }
+
